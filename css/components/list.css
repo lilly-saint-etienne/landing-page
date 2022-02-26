@@ -1,0 +1,22 @@
+.list-inline {
+  list-style: none;
+  background-color: rgb(232, 232, 232);
+  margin-top: 50px;
+  text-align: center;
+  overflow:hidden
+}
+
+.list-inline li {
+  display: inline;
+  padding: 10px;
+}
+
+.list-inline i {
+  font-size: 55px;
+  color: #89AC0E;
+  opacity: 0.9;
+}
+
+.list-inline i:hover {
+  opacity: 0.7;
+}

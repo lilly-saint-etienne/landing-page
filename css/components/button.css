@@ -1,0 +1,15 @@
+.button-green {
+  background-color: #89AC0E;
+  padding: 10px 15px;
+  border-radius: 4px;
+  opacity: 0.8;
+  color: white;
+  font-weight: bold;
+  font-family: "assistant";
+  font-size: 18px;
+}
+
+.button-green:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
